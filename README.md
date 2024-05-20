@@ -1,1 +1,2 @@
 Problemas matemáticos
+Ecuacinones diferenciales
